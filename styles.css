@@ -13,10 +13,10 @@ body {
     
 }
 
-.header-logo-image {
+/* .header-logo-image {
     display: flex;
     height: 50px;
-}
+} */
 
 .header-logo {
     display: flex;
